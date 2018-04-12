@@ -1,0 +1,6 @@
+FSharp.Core
+FSharp.NET.Sdk
+Newtonsoft.Json
+Amazon.Lambda.Core
+Amazon.Lambda.Serialization.Json
+Amazon.Lambda.Tools
