@@ -246,3 +246,7 @@ _Pvt_Extensions
 .serverless
 
 \.editorconfig
+
+\.paket/paket\.targets
+
+paket-files/
